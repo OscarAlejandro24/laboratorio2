@@ -1,0 +1,40 @@
+.alinear{
+    text-align: center;
+}
+section{
+    text-align: justify;
+    line-height: 20px;
+}
+#navegation{
+    text-align: center;
+    word-spacing: 25px;
+    padding: 1mm;
+    border-style: double;
+    margin: 0px 20px 0px 50px;
+    border-color:rgb(15, 96, 102);
+}
+#objective{
+    margin: -410px 0px 0px 50px;
+    width: 40%;
+    float: left;
+    background-color: palegoldenrod;
+}
+#certifications{
+    margin: 10px 0px 0px 50px;
+    width: 40%;
+    float: left;
+    line-height: 20px;
+    background-color: aliceblue;
+}
+#experience{
+    margin: 10px 20px 0px 0px;
+    width: 55%;
+    float: right;
+    background-color: wheat;
+}
+#education{
+    margin: 10px 20px 0px 20px;
+    width: 55%;
+    float: right;
+    background-color: seashell;
+}
